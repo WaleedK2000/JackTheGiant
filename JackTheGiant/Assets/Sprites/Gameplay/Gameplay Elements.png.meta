@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 6a02ac4ccc2fd4ab39468d2be11aa85d
-timeCreated: 1655727011
+timeCreated: 1658929205
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -15,6 +15,11 @@ TextureImporter:
     21300016: Dark Cloud
     21300018: Score UI
     21300020: Ready To Play
+    21300022: Resume
+    21300024: Quit
+    21300026: Boost
+    21300028: Score
+    21300030: Ready
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -64,7 +69,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Resume Game Button
+      name: Resume
       rect:
         serializedVersion: 2
         x: 1
@@ -75,7 +80,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: Life
       rect:
@@ -88,9 +93,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: Quit Game Button
+      name: Quit
       rect:
         serializedVersion: 2
         x: 0
@@ -101,7 +106,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: Coin
       rect:
@@ -114,7 +119,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: Cloud 1
       rect:
@@ -127,7 +132,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: Cloud 2
       rect:
@@ -140,9 +145,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: Pause Button
+      name: Boost
       rect:
         serializedVersion: 2
         x: 203
@@ -153,7 +158,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: Cloud 3
       rect:
@@ -166,7 +171,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
       name: Dark Cloud
       rect:
@@ -179,9 +184,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: Score UI
+      name: Score
       rect:
         serializedVersion: 2
         x: 152
@@ -192,20 +197,20 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: Ready To Play
+      name: Ready
       rect:
         serializedVersion: 2
         x: 7
         y: 0
-        width: 159
-        height: 41
+        width: 163
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
